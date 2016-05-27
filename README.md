@@ -1,2 +1,2 @@
 # JoGEn
-John Game Engine
+John's Game Engine
